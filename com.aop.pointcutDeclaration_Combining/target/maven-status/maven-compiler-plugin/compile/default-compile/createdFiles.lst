@@ -1,0 +1,5 @@
+com\aop\demo\AccountDao.class
+com\aop\App.class
+com\aop\demo\DemoConfig.class
+com\aop\demo\DemoMainApp.class
+com\aop\demo\MyDemoLoggingAccount.class
